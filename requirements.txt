@@ -1,0 +1,5 @@
+streamlit
+tensorflow
+matplotlib
+tf-keras
+transformers

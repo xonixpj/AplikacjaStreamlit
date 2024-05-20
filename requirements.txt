@@ -4,3 +4,4 @@ matplotlib
 tf-keras
 transformers
 torch
+sentencepiece
